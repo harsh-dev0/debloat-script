@@ -1,4 +1,4 @@
-Here is the **complete all-in-one PowerShell script**, bundling, so I can run it on any new Windows install in one shot.
+**complete all-in-one PowerShell script**, bundling, so I can run it on any new Windows install in one shot.
 
 This script performs:
 
